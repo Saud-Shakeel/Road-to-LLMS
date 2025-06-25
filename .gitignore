@@ -1,2 +1,7 @@
 venv
 .env
+random_forest_model.pkl
+ensemble_model.pkl
+products_vectorStore
+train.pkl
+test.pkl
